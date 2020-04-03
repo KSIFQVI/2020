@@ -1,8 +1,8 @@
-It's 2020 KSIF QVI's First project
+#It's 2020 KSIF QVI's First project
 
-<< Portfolio() 변수명 정의 >>
-Variable name	Description	Dtype	Unit	Example	비고
-code	코드	object		A000020	
+#<< Portfolio() 변수명 정의 >>
+#Variable name	Description	Dtype	Unit	Example	비고
+#code	코드	object		A000020	
 code02	코드	object		A000020_0	
 firmname	회사이름	object			
 mdate	Trading Day	object			
